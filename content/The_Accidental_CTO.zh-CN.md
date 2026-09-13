@@ -1,3 +1,7 @@
+---
+title: 意外CTO（The Accidental CTO）· 原书全文
+---
+
 
 ![Book Cover ](https://raw.githubusercontent.com/subhashchy/The-Accidental-CTO/refs/heads/main/web/public/cover.png)
 
